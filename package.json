@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/gardenia-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a gardenia-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/gardenia-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://inuchat.net/es/gardenia/"
+    },
+    "homepage": "https://inuchat.net/es/gardenia/"
+}
